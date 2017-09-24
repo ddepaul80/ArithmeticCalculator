@@ -1,0 +1,11 @@
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.exe.config
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.exe
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.pdb
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.csprojResolveAssemblyReference.cache
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.exe
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.pdb
+C:\Users\ddepaul\Desktop\C# Programs\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.exe.config
+C:\Users\ddepaul\Desktop\C# Programs\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.exe
+C:\Users\ddepaul\Desktop\C# Programs\ArithmeticCalculator\ArithmeticCalculator\bin\Debug\ArithmeticCalculator.pdb
+C:\Users\ddepaul\Desktop\C# Programs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.exe
+C:\Users\ddepaul\Desktop\C# Programs\ArithmeticCalculator\ArithmeticCalculator\obj\Debug\ArithmeticCalculator.pdb
